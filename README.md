@@ -32,16 +32,14 @@
   - **It is recommended to try all three presets on your game to find which T-set works for you.**
 
 
-## Game Specific Presets
+## Game Presets
 **The ZEFERENCE™ Exclusive** - **Experience your games with a new set of ears.**
 - [**Apex Legends** - **Anchor EQ**](https://drive.google.com/file/d/17k7PncQ5Oz7288OftgRa7EYpN6XLooHC/view?usp=sharing)
-  - Whether you're sliding to cover, catching your breath to reload, or launching directly into the heat of combat; let your ears Anchor your surroundings so you and your squad are never caught off guard again!
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Battlefield 2042** - **Road to Warfare**](https://drive.google.com/file/d/1kqbH6RYVhdBFYGjJB6gYsqvv7mjcO8PM/view?usp=sharing)
-  - Road to Warfare aims to put you into the boots of the No-Pat Specialists. Adapt and overcome in massive-scale 128 player battles where dynamic storms, environmental hazards, total combat freedom, and Battlefield's signature destruction spark a new breed of Only in Battlefield moments.
   - **Audio settings:**
     - Ensure that the Astro EQ audio mix within the audio settings of BATTLEFEILD™ 2042 is enabled.
     - If using Dolby Atmos or the built-in Dolby Digital Surround Sound, ensure that Surround is selected in the audio settings of BATTLEFIELD™ 2042.
@@ -51,8 +49,6 @@
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Call of Duty®: Black Ops Cold War - Tournament Ready**](https://drive.google.com/file/d/15t0dQiOnbFgZfxAwIGi5KhRd-sfZ_Uuc/view?usp=sharing)
-  - The familiar quality and precision you've come to expect from his Tournament Ready EQs! Every footstep, every gunshot, and every explosion tuned in unprecedented detail! Step-up with Dolby® Audio and keep your foes sweaty, all while your K/D stays on top of that scoreboard. 
-What are you still reading for? Get out there and win!
   - **Audio Settings:**
     - Ensure that the Treyarch Mix audio option within the audio settings of Call of Duty®: Black Ops Cold War is enabled for the recommended experience.
     - **Best experienced with Dolby® Atmos.**
@@ -61,8 +57,6 @@ What are you still reading for? Get out there and win!
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Call of Duty®: Modern Warfare - Tournament Ready**](https://drive.google.com/file/d/13Kyv_HvRTzm3w7kK9Xg74L9BposViLKg/view?usp=sharing)
-  - Gain the advantage of hearing the enemy before they hear you! Whip around the corner and blast your foes with pinpoint accuracy. Waste your opponents as they reload; and direct your squad to the location of those gunshots! With Dolby® audio and cross-platform play, no matter the system; deny your rivals the chance of victory!
-What are you waiting for, Operative?
   - **Audio settings:**
     - Ensure that the Home Theater or Boost High audio mix within the audio settings of Call of Duty®: Modern Warfare is enabled for the recommended experience.
     - **Best experienced with Dolby® Atmos.**
@@ -71,7 +65,6 @@ What are you waiting for, Operative?
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Call of Duty®: Modern Warfare II / Warzone 2.0 - Tournament Ready**](https://drive.google.com/file/d/1a-FnSdNSP4Oyn32FTcvemso_y7u5lT_H/view?usp=sharing)
-  - The metropolitan area and rural outskirts within the Republic of Adal seek to bury you at every turn. Your weapons and gear aren't the only instruments-of-carnage that need to be tuned.
   - **Audio settings:**
     - Ensure that the Home Theater audio mix within the audio settings of Call of Duty®: Modern Warfare II / Warzone 2.0 is enabled for the recommended experience.
     - **Best experienced with Dolby® Atmos.**
@@ -79,5 +72,73 @@ What are you waiting for, Operative?
     - A40 + MixAmp Pro TR (Gen 4)
     - A50 Wireless (Gen 4)
     - **This EQ is exclusive for Gen 4 devices.**
-
-    
+- [**Call of Duty®: Vanguard - Blood 'n Soil**](https://drive.google.com/file/d/1vtAnKVy26v5JEe6pp26F1sGFGlqFBvIE/view?usp=sharing)
+  - **Audio Settings**
+    - Ensure that the Headphones audio mix within the audio settings of Call of Duty®: Vanguard is enabled.
+    - **Best experienced with Dolby® Atmos.**
+  - **Supported devices:**
+    - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
+    - A50 Wireless (Gen 4 / Gen 3)
+    - **Gen 4 devices are recommended for the intended experience**
+- [**Destiny 2 - Hive Sense**](https://drive.google.com/file/d/17YZtQIz13DGrbbZo0-F41zOtfHcDNxio/view?usp=sharing)
+  - **Audio settings**
+    - **Best experienced with Dolby® Atmos.**
+  - **Supported devices:**
+    - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
+    - A50 Wireless (Gen 4 / Gen 3)
+    - **Gen 4 devices are recommended for the intended experience**
+- [**Escape from Tarkov - S.L.L.K**](https://drive.google.com/file/d/1_-K7NU2sj8YIGm1bYgYb6sfkzi_9dZ36/view?usp=sharing)
+  - **Audio settings**
+    - **Best experienced with Dolby® Atmos. Disable Binaural Audio in the game sound settings if using Atmos.**
+  - **Supported devices:**
+    - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
+    - A50 Wireless (Gen 4 / Gen 3)
+    - **Gen 4 devices are recommended for the intended experience** 
+- [**Halo Infinite - I.R.I.S**](https://drive.google.com/file/d/1AOTz3iFD0jMQSnljCv8nTApkKQF1MjE2/view?usp=sharing)
+  - **Audio settings**
+    - **Best experienced with Dolby® Atmos.**
+  - **Supported devices:**
+    - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
+    - A50 Wireless (Gen 4 / Gen 3)
+    - **Gen 4 devices are recommended for the intended experience**
+- [**Halo MCC - Forward Assist**](https://drive.google.com/file/d/1Xx9gaoEbPwEAPsGqaqH1YU2SRm370jJ_/view?usp=sharing)
+  - **Audio settings**
+    - **Best experienced with Dolby® Atmos.**
+  - **Supported devices:**
+    - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
+    - A50 Wireless (Gen 4 / Gen 3)
+    - **Gen 4 devices are recommended for the intended experience**
+- [**Hell Let Loose - Song of the Reaper**](https://drive.google.com/file/d/1TH37gWwTgC87esNXngVKfoXdaVjpA7dA/view?usp=sharing)
+  - **Audio settings**
+    - **Best experienced with Dolby® Atmos.**
+  - **Supported devices:**
+    - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
+    - A50 Wireless (Gen 4 / Gen 3)
+    - **Gen 4 devices are recommended for the intended experience**
+- [**Insurgency: Sandstorm - Danger Close!**](https://drive.google.com/file/d/1oFcvz7Ay2y1HatGJo0ckqtf_vuI44JkZ/view?usp=sharing)
+  - **Audio settings**
+    - **Best experienced with Dolby® Atmos.**
+  - **Supported devices:**
+    - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
+    - A50 Wireless (Gen 4 / Gen 3)
+    - **Gen 4 devices are recommended for the intended experience**
+- [**Ready or Not - Stack Up!**](https://drive.google.com/file/d/1-ejE4ch68FWUoIYHKd6xhJEAUOarXKgE/view?usp=sharing)
+  - **Audio settings**
+    - **Best experienced with Dolby® Atmos.**
+  - **Supported devices:**
+    - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
+    - A50 Wireless (Gen 4 / Gen 3)
+    - **Gen 4 devices are recommended for the intended experience**
+- [**The Cycle - Forsaken**](https://drive.google.com/file/d/1yZGMYGMLK08h9WDr7qzPXI_NLRmYjw57/view?usp=sharing)
+  - **Supported devices:**
+    - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
+    - A50 Wireless (Gen 4 / Gen 3)
+    - **Gen 4 devices are recommended for the intended experience**
+- [**Tom Clancy's Rainbow Six® Siege - Tournament Ready**](https://drive.google.com/file/d/1NF9YjjRF-g_qBs2jOUdKlH6Wl5x8gDoq/view?usp=sharing)
+  - **Audio settings**
+    - Ensure that the HiFi audio mix within the audio settings of Tom Clancy's Rainbow Six® Siege is enabled.
+    - **Best experienced with Dolby® Atmos.**
+  - **Supported devices:**
+    - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
+    - A50 Wireless (Gen 4 / Gen 3)
+    - **Gen 4 devices are recommended for the intended experience**
