@@ -32,7 +32,7 @@
   - **It is recommended to try all three presets on your game to find which T-set works for you.**
 
 
-## Game Presets
+## Game Specific Presets
 **The ZEFERENCE™ Exclusive** - **Experience your games with a new set of ears.**
 - [**Apex Legends** - **Anchor EQ**](https://drive.google.com/file/d/17k7PncQ5Oz7288OftgRa7EYpN6XLooHC/view?usp=sharing)
   - **Supported devices:**
