@@ -28,7 +28,7 @@
   
 
 **TOURNAMENT SERIES**
-- [**Tournament I**](https://drive.google.com/file/d/15eS4XKYTGEYIjnm6CMya2EaTXY-LLsR6/view?usp=sharing) | [**Tournament II**](https://drive.google.com/file/d/1KNU_8_cHmhrkuIJEg0N4Fdq7Z6Emf6uh/view?usp=sharing) | [**Tournament III**](https://drive.google.com/file/d/13S4Z2Yfhk-VkOZalNswi8d2V8_Sb4W0A/view?usp=sharing)
+- [**Tournament I**](TOURNAMENT%20SERIES/Tournament%20I%20-%20The%20ZEFERENCE™.astroeq) | [**Tournament II**](TOURNAMENT%20SERIES/Tournament%20II%20-%20The%20ZEFERENCE™.astroeq) | [**Tournament III**](TOURNAMENT%20SERIES/Tournament%20III%20-%20The%20ZEFERENCE™.astroeq)
   - Focus on precise sound-space clarity in competitive games. As not every games' sound design is recorded and formatted in the same frequency range, there are 3 EQs to choose which cover a wide variety of competitive FPS titles.
   - **It is recommended to try all three presets on your game to find which T-set works for you.**
 
