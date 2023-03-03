@@ -1,0 +1,17 @@
+[General]
+Name=ZaliaS OmniVox+
+
+[Eq_Bands]
+Eq_Band_1=6
+Eq_Band_2=-1
+Eq_Band_3=4
+Eq_Band_4=7
+Eq_Band_5=2
+Eq_Freq_Band_1=125
+Eq_Freq_Band_2=486
+Eq_Freq_Band_3=2000
+Eq_Freq_Band_4=3800
+Eq_Freq_Band_5=6200
+Eq_Bandwidth_2=2.2
+Eq_Bandwidth_3=2.4
+Eq_Bandwidth_4=2.2

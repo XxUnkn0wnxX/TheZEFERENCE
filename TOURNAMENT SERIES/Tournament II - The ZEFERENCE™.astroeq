@@ -1,0 +1,17 @@
+[General]
+Name=ZaliaS Tournament v2+
+
+[Eq_Bands]
+Eq_Band_1=5
+Eq_Band_2=4
+Eq_Band_3=7
+Eq_Band_4=6
+Eq_Band_5=5
+Eq_Freq_Band_1=164
+Eq_Freq_Band_2=1000
+Eq_Freq_Band_3=3200
+Eq_Freq_Band_4=8000
+Eq_Freq_Band_5=12147
+Eq_Bandwidth_2=2
+Eq_Bandwidth_3=2.4
+Eq_Bandwidth_4=2.6

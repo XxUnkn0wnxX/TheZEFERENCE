@@ -1,0 +1,18 @@
+﻿[General]
+Name=Hive Sense - Destiny 2 (r1)
+
+[Eq_Bands]
+Eq_Band_1=4
+Eq_Band_2=7
+Eq_Band_3=7
+Eq_Band_4=4
+Eq_Band_5=-2
+Eq_Freq_Band_1=1366
+Eq_Freq_Band_2=2657
+Eq_Freq_Band_3=4302
+Eq_Freq_Band_4=8250
+Eq_Freq_Band_5=10100
+Eq_Bandwidth_2=2
+Eq_Bandwidth_3=1
+Eq_Bandwidth_4=0.5
+

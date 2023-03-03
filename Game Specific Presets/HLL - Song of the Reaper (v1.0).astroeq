@@ -1,0 +1,18 @@
+﻿[General]
+Name=HLL - Song of the Reaper (v1.0)
+
+[Eq_Bands]
+Eq_Band_1=3
+Eq_Band_2=5
+Eq_Band_3=6
+Eq_Band_4=2
+Eq_Band_5=4
+Eq_Freq_Band_1=184
+Eq_Freq_Band_2=2241
+Eq_Freq_Band_3=3862
+Eq_Freq_Band_4=6119
+Eq_Freq_Band_5=14121
+Eq_Bandwidth_2=1.3
+Eq_Bandwidth_3=2.1
+Eq_Bandwidth_4=2
+

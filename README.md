@@ -3,13 +3,13 @@
 
 ## Studio Reference
 **Perfectly Balanced for the ASTRO A50 / A40 + MixAmp Pro TR**
-- [**REVIVE4**](https://drive.google.com/file/d/1Tc-E24Q6zQ2Adnf6Y6job2dPw_GoXfYZ/view?usp=sharing)
+- [**REVIVE4**](Studio Reference/REVIVE4 [A40Gen4] - The ZEFERENCE™.astroeq)
   - A preset designed specifically to re-tune the A40 Gen 4 frequency signature to reflect a studio reference headphone with full dynamic range, allowing your audio to sound as the engineers intended.
-- [**RECTIFY4**](https://drive.google.com/file/d/1ulw6Neg_6OZMuSKekFWOhEZNZMyNyPmO/view?usp=sharing)
+- [**RECTIFY4**](Studio Reference/RECTIFY4 [A50Gen4] - The ZEFERENCE™.astroeq)
   - A preset designed specifically to re-tune the A50 Gen 4 frequency signature to reflect a studio reference headphone with full dynamic range, allowing your audio to sound as the engineers intended.
-- [**REVIVE3**](https://drive.google.com/file/d/1vhS4vAO0sVqxypi4ZfUc8ll0zsqd9cr6/view?usp=sharing)
+- [**REVIVE3**](Studio Reference/REVIVE3 [A40Gen3] - The ZEFERENCE™.astroeq)
   - A preset designed specifically to re-tune the A40 Gen 3 frequency signature to reflect a studio reference headphone with a moderate dynamic range, allowing your audio to sound as the engineers intended.
-- [**RECTIFY3**](https://drive.google.com/file/d/1COpNeHKh_0j9ocdXshfwegLID5JPwS7O/view?usp=sharing)
+- [**RECTIFY3**](Studio Reference/RECTIFY3 [A50Gen4] - The ZEFERENCE™.astroeq)
   - A preset designed specifically to re-tune the A50 Gen 3 frequency signature to reflect a studio reference headphone with a moderate dynamic range, allowing your audio to sound as the engineers intended.
   
 ## Universal Presets
@@ -26,6 +26,7 @@
 - [**PURE**](https://drive.google.com/file/d/1m3LFl77TTLS0je5NF5PJNGAlwUcqvwZT/view?usp=sharing)
   - Pure is a universal EQ for music, movies and games. For those that enjoy bass.
   
+
 **TOURNAMENT SERIES**
 - [**Tournament I**](https://drive.google.com/file/d/15eS4XKYTGEYIjnm6CMya2EaTXY-LLsR6/view?usp=sharing) | [**Tournament II**](https://drive.google.com/file/d/1KNU_8_cHmhrkuIJEg0N4Fdq7Z6Emf6uh/view?usp=sharing) | [**Tournament III**](https://drive.google.com/file/d/13S4Z2Yfhk-VkOZalNswi8d2V8_Sb4W0A/view?usp=sharing)
   - Focus on precise sound-space clarity in competitive games. As not every games' sound design is recorded and formatted in the same frequency range, there are 3 EQs to choose which cover a wide variety of competitive FPS titles.

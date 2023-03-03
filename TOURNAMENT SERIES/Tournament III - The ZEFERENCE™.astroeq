@@ -1,0 +1,17 @@
+[General]
+Name=ZaliaS Tournament III
+
+[Eq_Bands]
+Eq_Band_1=4
+Eq_Band_2=3
+Eq_Band_3=7
+Eq_Band_4=4
+Eq_Band_5=6
+Eq_Freq_Band_1=150
+Eq_Freq_Band_2=1128
+Eq_Freq_Band_3=3180
+Eq_Freq_Band_4=8296
+Eq_Freq_Band_5=11150
+Eq_Bandwidth_2=2.1
+Eq_Bandwidth_3=2.6
+Eq_Bandwidth_4=2.5

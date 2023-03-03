@@ -1,0 +1,18 @@
+﻿[General]
+Name=ZaliaS Kryogen
+
+[Eq_Bands]
+Eq_Band_1=7
+Eq_Band_2=6
+Eq_Band_3=5
+Eq_Band_4=6
+Eq_Band_5=3
+Eq_Freq_Band_1=110
+Eq_Freq_Band_2=2000
+Eq_Freq_Band_3=4000
+Eq_Freq_Band_4=6000
+Eq_Freq_Band_5=12000
+Eq_Bandwidth_2=2
+Eq_Bandwidth_3=3
+Eq_Bandwidth_4=1.6
+

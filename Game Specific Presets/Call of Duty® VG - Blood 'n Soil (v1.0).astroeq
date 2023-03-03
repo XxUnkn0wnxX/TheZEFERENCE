@@ -1,0 +1,18 @@
+﻿[General]
+Name=Call of Duty® VG - Blood 'n Soil (v1.0)
+
+[Eq_Bands]
+Eq_Band_1=5
+Eq_Band_2=0
+Eq_Band_3=3
+Eq_Band_4=6
+Eq_Band_5=2
+Eq_Freq_Band_1=207
+Eq_Freq_Band_2=529
+Eq_Freq_Band_3=1363
+Eq_Freq_Band_4=4218
+Eq_Freq_Band_5=7742
+Eq_Bandwidth_2=2
+Eq_Bandwidth_3=2
+Eq_Bandwidth_4=1.3
+

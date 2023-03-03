@@ -1,0 +1,18 @@
+﻿[General]
+Name=Call of Duty® MW-WZ TR (v1.22)
+
+[Eq_Bands]
+Eq_Band_1=4
+Eq_Band_2=2
+Eq_Band_3=3
+Eq_Band_4=5
+Eq_Band_5=-1
+Eq_Freq_Band_1=96
+Eq_Freq_Band_2=253
+Eq_Freq_Band_3=1457
+Eq_Freq_Band_4=2673
+Eq_Freq_Band_5=6936
+Eq_Bandwidth_2=2
+Eq_Bandwidth_3=2.2
+Eq_Bandwidth_4=1.6
+

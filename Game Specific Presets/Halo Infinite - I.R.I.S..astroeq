@@ -1,0 +1,18 @@
+﻿[General]
+Name=Halo Infinite - I.R.I.S.
+
+[Eq_Bands]
+Eq_Band_1=1
+Eq_Band_2=2
+Eq_Band_3=3
+Eq_Band_4=7
+Eq_Band_5=3
+Eq_Freq_Band_1=996
+Eq_Freq_Band_2=2972
+Eq_Freq_Band_3=5001
+Eq_Freq_Band_4=7050
+Eq_Freq_Band_5=10015
+Eq_Bandwidth_2=2.2
+Eq_Bandwidth_3=2
+Eq_Bandwidth_4=0.7
+
