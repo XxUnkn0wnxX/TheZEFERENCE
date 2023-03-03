@@ -1,0 +1,18 @@
+﻿[General]
+Name=Halo MCC (2021_08)- The ZEFERENCE™
+
+[Eq_Bands]
+Eq_Band_1=0
+Eq_Band_2=1
+Eq_Band_3=6
+Eq_Band_4=7
+Eq_Band_5=1
+Eq_Freq_Band_1=237
+Eq_Freq_Band_2=561
+Eq_Freq_Band_3=2219
+Eq_Freq_Band_4=4816
+Eq_Freq_Band_5=6282
+Eq_Bandwidth_2=1.4
+Eq_Bandwidth_3=1.4
+Eq_Bandwidth_4=1.4
+

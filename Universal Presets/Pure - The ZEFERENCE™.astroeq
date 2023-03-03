@@ -1,0 +1,18 @@
+﻿[General]
+Name=ZaliaS PureAudio
+
+[Eq_Bands]
+Eq_Band_1=5
+Eq_Band_2=7
+Eq_Band_3=3
+Eq_Band_4=6
+Eq_Band_5=4
+Eq_Freq_Band_1=96
+Eq_Freq_Band_2=864
+Eq_Freq_Band_3=3642
+Eq_Freq_Band_4=6800
+Eq_Freq_Band_5=8414
+Eq_Bandwidth_2=2
+Eq_Bandwidth_3=2.2
+Eq_Bandwidth_4=1.9
+

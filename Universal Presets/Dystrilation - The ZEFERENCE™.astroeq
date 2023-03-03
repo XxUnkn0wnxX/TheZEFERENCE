@@ -1,0 +1,18 @@
+﻿[General]
+Name=ZaliaS Dystrilation[2019]
+
+[Eq_Bands]
+Eq_Band_1=5
+Eq_Band_2=7
+Eq_Band_3=6
+Eq_Band_4=3
+Eq_Band_5=4
+Eq_Freq_Band_1=90
+Eq_Freq_Band_2=2125
+Eq_Freq_Band_3=3850
+Eq_Freq_Band_4=9275
+Eq_Freq_Band_5=14250
+Eq_Bandwidth_2=2.2
+Eq_Bandwidth_3=1.8
+Eq_Bandwidth_4=2
+

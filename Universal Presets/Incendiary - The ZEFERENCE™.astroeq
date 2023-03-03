@@ -1,0 +1,17 @@
+[General]
+Name=ZaliaS Incendiary+
+
+[Eq_Bands]
+Eq_Band_1=5
+Eq_Band_2=4
+Eq_Band_3=5
+Eq_Band_4=6
+Eq_Band_5=5
+Eq_Freq_Band_1=196
+Eq_Freq_Band_2=1200
+Eq_Freq_Band_3=3864
+Eq_Freq_Band_4=7832
+Eq_Freq_Band_5=15000
+Eq_Bandwidth_2=2.6
+Eq_Bandwidth_3=2.4
+Eq_Bandwidth_4=2.8

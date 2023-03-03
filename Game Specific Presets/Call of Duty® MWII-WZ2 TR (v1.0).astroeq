@@ -1,0 +1,17 @@
+[General]
+Name=Call of Duty\xae MWII TR (b0.7.1)+
+
+[Eq_Bands]
+Eq_Band_1=7
+Eq_Band_2=-1
+Eq_Band_3=4
+Eq_Band_4=-2
+Eq_Band_5=5
+Eq_Freq_Band_1=121
+Eq_Freq_Band_2=200
+Eq_Freq_Band_3=834
+Eq_Freq_Band_4=2212
+Eq_Freq_Band_5=10875
+Eq_Bandwidth_2=2.5
+Eq_Bandwidth_3=2
+Eq_Bandwidth_4=1.7

@@ -1,0 +1,18 @@
+﻿[General]
+Name=S.L.L.K. - EFT (1.0)
+
+[Eq_Bands]
+Eq_Band_1=2
+Eq_Band_2=3
+Eq_Band_3=2
+Eq_Band_4=-1
+Eq_Band_5=7
+Eq_Freq_Band_1=771
+Eq_Freq_Band_2=1523
+Eq_Freq_Band_3=3447
+Eq_Freq_Band_4=6202
+Eq_Freq_Band_5=13541
+Eq_Bandwidth_2=1.2
+Eq_Bandwidth_3=1.6
+Eq_Bandwidth_4=0.9
+

@@ -1,0 +1,18 @@
+﻿[General]
+Name=Call of Duty® Warzone (v1.3)
+
+[Eq_Bands]
+Eq_Band_1=6
+Eq_Band_2=6
+Eq_Band_3=4
+Eq_Band_4=0
+Eq_Band_5=5
+Eq_Freq_Band_1=270
+Eq_Freq_Band_2=712
+Eq_Freq_Band_3=2208
+Eq_Freq_Band_4=4625
+Eq_Freq_Band_5=9172
+Eq_Bandwidth_2=2.1
+Eq_Bandwidth_3=2
+Eq_Bandwidth_4=0.8
+

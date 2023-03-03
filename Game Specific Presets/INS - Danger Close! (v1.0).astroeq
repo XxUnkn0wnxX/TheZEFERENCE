@@ -1,0 +1,18 @@
+﻿[General]
+Name=INS - Danger Close! (v0.1.0)
+
+[Eq_Bands]
+Eq_Band_1=7
+Eq_Band_2=5
+Eq_Band_3=-2
+Eq_Band_4=-1
+Eq_Band_5=5
+Eq_Freq_Band_1=2119
+Eq_Freq_Band_2=5002
+Eq_Freq_Band_3=6000
+Eq_Freq_Band_4=8584
+Eq_Freq_Band_5=10000
+Eq_Bandwidth_2=2.5
+Eq_Bandwidth_3=0.7
+Eq_Bandwidth_4=0.3
+

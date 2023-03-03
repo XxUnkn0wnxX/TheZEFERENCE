@@ -1,0 +1,18 @@
+﻿[General]
+Name=RECTIFY3 - The ZEFERENCE™
+
+[Eq_Bands]
+Eq_Band_1=2
+Eq_Band_2=7
+Eq_Band_3=-5
+Eq_Band_4=-3
+Eq_Band_5=7
+Eq_Freq_Band_1=1917
+Eq_Freq_Band_2=3948
+Eq_Freq_Band_3=6639
+Eq_Freq_Band_4=8863
+Eq_Freq_Band_5=12534
+Eq_Bandwidth_2=2
+Eq_Bandwidth_3=0.8
+Eq_Bandwidth_4=0.5
+

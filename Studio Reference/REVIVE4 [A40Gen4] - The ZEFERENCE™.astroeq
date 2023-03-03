@@ -1,0 +1,18 @@
+﻿[General]
+Name=REVIVE4 - The ZEFERENCE™
+
+[Eq_Bands]
+Eq_Band_1=7
+Eq_Band_2=7
+Eq_Band_3=-6
+Eq_Band_4=-3
+Eq_Band_5=7
+Eq_Freq_Band_1=2915
+Eq_Freq_Band_2=4496
+Eq_Freq_Band_3=6544
+Eq_Freq_Band_4=8992
+Eq_Freq_Band_5=12716
+Eq_Bandwidth_2=2
+Eq_Bandwidth_3=0.4
+Eq_Bandwidth_4=0.2
+

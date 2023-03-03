@@ -1,0 +1,18 @@
+﻿[General]
+Name=Rainbow Six® Siege TR (v1.0)
+
+[Eq_Bands]
+Eq_Band_1=4
+Eq_Band_2=2
+Eq_Band_3=6
+Eq_Band_4=4
+Eq_Band_5=5
+Eq_Freq_Band_1=205
+Eq_Freq_Band_2=1012
+Eq_Freq_Band_3=3820
+Eq_Freq_Band_4=6550
+Eq_Freq_Band_5=12117
+Eq_Bandwidth_2=1.7
+Eq_Bandwidth_3=2
+Eq_Bandwidth_4=2
+
