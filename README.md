@@ -3,7 +3,7 @@
 
 ## Studio Reference
 **Perfectly Balanced for the ASTRO A50 / A40 + MixAmp Pro TR**
-- [**REVIVE4**]("Studio Reference/REVIVE4 [A40Gen4] - The ZEFERENCE™.astroeq")
+- [**REVIVE4**]("Studio \Reference/REVIVE4 \[A40Gen4] \- \The ZEFERENCE™.astroeq")
   - A preset designed specifically to re-tune the A40 Gen 4 frequency signature to reflect a studio reference headphone with full dynamic range, allowing your audio to sound as the engineers intended.
 - [**RECTIFY4**]("Studio Reference/RECTIFY4 [A50Gen4] - The ZEFERENCE™.astroeq")
   - A preset designed specifically to re-tune the A50 Gen 4 frequency signature to reflect a studio reference headphone with full dynamic range, allowing your audio to sound as the engineers intended.
