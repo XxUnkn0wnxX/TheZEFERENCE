@@ -9,7 +9,7 @@
   - A preset designed specifically to re-tune the A50 Gen 4 frequency signature to reflect a studio reference headphone with full dynamic range, allowing your audio to sound as the engineers intended.
 - [**REVIVE3**](Studio%20Reference/REVIVE3%20[A40Gen3]%20-%20The%20ZEFERENCE™.astroeq)
   - A preset designed specifically to re-tune the A40 Gen 3 frequency signature to reflect a studio reference headphone with a moderate dynamic range, allowing your audio to sound as the engineers intended.
-- [**RECTIFY3**](Studio%20Reference/RECTIFY3%20[A50Gen4]%20-%20The%20ZEFERENCE™.astroeq)
+- [**RECTIFY3**](Studio%20Reference/RECTIFY3%20[A50Gen3]%20-%20The%20ZEFERENCE™.astroeq)
   - A preset designed specifically to re-tune the A50 Gen 3 frequency signature to reflect a studio reference headphone with a moderate dynamic range, allowing your audio to sound as the engineers intended.
   
 ## Universal Presets
