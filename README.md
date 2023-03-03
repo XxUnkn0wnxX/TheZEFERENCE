@@ -57,7 +57,7 @@
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
-- [**Call of Duty®: Modern Warfare - Tournament Ready**](Game%20Specific%20Presets/Call%20of%20Duty®%20MW-WZ%20TR%20(v1.22).astroeq)
+- [**Call of Duty®: Modern Warfare - Tournament Ready**](Game%20Specific%20Presets/Call%20of%20Duty®%20MW-WZ%20TR%20(v1.22).astroeq) | [**Warzone 1.0**](Game%20Specific%20Presets/Call%20of%20Duty®%20Warzone%20(v1.3).astroeq)
   - **Audio settings:**
     - Ensure that the Home Theater or Boost High audio mix within the audio settings of Call of Duty®: Modern Warfare is enabled for the recommended experience.
     - **Best experienced with Dolby® Atmos.**
