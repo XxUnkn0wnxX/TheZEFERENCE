@@ -13,17 +13,17 @@
   - A preset designed specifically to re-tune the A50 Gen 3 frequency signature to reflect a studio reference headphone with a moderate dynamic range, allowing your audio to sound as the engineers intended.
   
 ## Universal Presets
-- [**ARCTURUS**](https://drive.google.com/file/d/1hIm72YYF-APZE2LhIaBaqzQkObTSUYrI/view?usp=sharing)
+- [**ARCTURUS**](Universal%20Presets/Arcturus%20-%20The%20ZEFERENCE™.astroeq)
   - Arcturus is a red giant star in the Northern Hemisphere of Earth's sky, and the brightest star in the constellation Boötes. Like that star, this preset is universally massive, shining new light on every bit of your gaming.
-- [**DYSTRILATION**](https://drive.google.com/file/d/1nJ4Mu5T_d4ot4tEZBfM9yMG8jPIWPtqh/view?usp=sharing)
+- [**DYSTRILATION**](Universal%20Presets/Dystrilation%20-%20The%20ZEFERENCE™.astroeq)
   - Focus on clear, crisp audio. Attention to detail in the mid and treble range. For instrumental enthusiasts.
-- [**INCENDIARY**](https://drive.google.com/file/d/1MdU-Q5fTX2w3AcW6IsFEWAukdSIc1NeT/view?usp=sharing)
+- [**INCENDIARY**](Universal%20Presets/Incendiary%20-%20The%20ZEFERENCE™.astroeq)
   - A clean, theatrical EQ for general entertainment. Attention to detail in the low and mid range. For cinematic types.
-- [**KRYOGEN**](https://drive.google.com/file/d/1zEAY3O8ifYwYdw02qcbh5P5m5IzsdPUf/view?usp=sharing)
+- [**KRYOGEN**](Universal%20Presets/Kryogen%20-%20The%20ZEFERENCE™.astroeq)
   - The polar opposite of Incendiary. The warmth is turned down a bit for a focus in the lows and treble, leaving the mids a bit more neutral.
-- [**OMNIVOX**](https://drive.google.com/file/d/1tEWcN2Vvoi_C8nbthyWHKQLD-tE4uSUt/view?usp=sharing)
+- [**OMNIVOX**](Universal%20Presets/Omnivox%20-%20The%20ZEFERENCE™.astroeq)
   - Focus on low and mid range, providing clear and audible footstep locations. Support for a wide variety of games.
-- [**PURE**](https://drive.google.com/file/d/1m3LFl77TTLS0je5NF5PJNGAlwUcqvwZT/view?usp=sharing)
+- [**PURE**](Universal%20Presets/Pure%20-%20The%20ZEFERENCE™.astroeq)
   - Pure is a universal EQ for music, movies and games. For those that enjoy bass.
   
 

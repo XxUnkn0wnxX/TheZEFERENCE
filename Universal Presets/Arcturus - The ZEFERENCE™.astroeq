@@ -1,0 +1,18 @@
+﻿[General]
+Name=ZaliaS Arcturus[2019]
+
+[Eq_Bands]
+Eq_Band_1=5
+Eq_Band_2=6
+Eq_Band_3=4
+Eq_Band_4=6
+Eq_Band_5=5
+Eq_Freq_Band_1=100
+Eq_Freq_Band_2=1775
+Eq_Freq_Band_3=4664
+Eq_Freq_Band_4=8210
+Eq_Freq_Band_5=11125
+Eq_Bandwidth_2=2.2
+Eq_Bandwidth_3=2
+Eq_Bandwidth_4=2.2
+
