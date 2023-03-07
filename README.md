@@ -74,7 +74,7 @@
     - A50 Wireless (Gen 4)
     - **This EQ is exclusive for Gen 4 devices.**
 - [**Call of Duty®: Vanguard - Blood 'n Soil**](Game%20Specific%20Presets/Call%20of%20Duty®%20VG%20-%20Blood%20'n%20Soil%20(v1.0).astroeq)
-  - **Audio Settings**
+  - **Audio Settings:**
     - Ensure that the Headphones audio mix within the audio settings of Call of Duty®: Vanguard is enabled.
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
@@ -82,49 +82,49 @@
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Destiny 2 - Hive Sense**](Game%20Specific%20Presets/Destiny%202%20-%20Hive%20Sense%20(v1.0.1).astroeq)
-  - **Audio settings**
+  - **Audio Settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Escape from Tarkov - S.L.L.K**](Game%20Specific%20Presets/S.L.L.K.%20-%20EFT%20(v1.0).astroeq)
-  - **Audio settings**
+  - **Audio Settings:**
     - **Best experienced with Dolby® Atmos. Disable Binaural Audio in the game sound settings if using Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience** 
 - [**Halo Infinite - I.R.I.S**](Game%20Specific%20Presets/Halo%20Infinite%20-%20I.R.I.S..astroeq)
-  - **Audio settings**
+  - **Audio Settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Halo MCC - Forward Assist**](Game%20Specific%20Presets/Halo%20MCC%20-%20Forward%20Assist%20(v1.0).astroeq)
-  - **Audio settings**
+  - **Audio Settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Hell Let Loose - Song of the Reaper**](Game%20Specific%20Presets/HLL%20-%20Song%20of%20the%20Reaper%20(v1.0).astroeq)
-  - **Audio settings**
+  - **Audio Settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Insurgency: Sandstorm - Danger Close!**](Game%20Specific%20Presets/INS%20-%20Danger%20Close!%20(v1.0).astroeq)
-  - **Audio settings**
+  - **Audio Settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Ready or Not - Stack Up!**](Game%20Specific%20Presets/RoN%20-%20Stack%20Up!%20(v1.0).astroeq)
-  - **Audio settings**
+  - **Audio Settings:**
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
@@ -136,7 +136,7 @@
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
 - [**Tom Clancy's Rainbow Six® Siege - Tournament Ready**](Game%20Specific%20Presets/Rainbow%20Six®%20Siege%20TR%20(v1.0).astroeq)
-  - **Audio settings**
+  - **Audio Settings:**
     - Ensure that the HiFi audio mix within the audio settings of Tom Clancy's Rainbow Six® Siege is enabled.
     - **Best experienced with Dolby® Atmos.**
   - **Supported devices:**
