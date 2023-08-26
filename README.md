@@ -1,8 +1,9 @@
 # The ZEFERENCE Astro EQ Presets by ZaliaS
 
-
 ## Studio Reference
+
 **Perfectly Balanced for the ASTRO A50 / A40 + MixAmp Pro TR**
+
 - [**REVIVE4**](Studio%20Reference/REVIVE4%20[A40Gen4]%20-%20The%20ZEFERENCE™.astroeq)
   - A preset designed specifically to re-tune the A40 Gen 4 frequency signature to reflect a studio reference headphone with full dynamic range, allowing your audio to sound as the engineers intended.
 - [**RECTIFY4**](Studio%20Reference/RECTIFY4%20[A50Gen4]%20-%20The%20ZEFERENCE™.astroeq)
@@ -143,3 +144,7 @@
     - A40 + MixAmp Pro TR (Gen 4 / Gen 3)
     - A50 Wireless (Gen 4 / Gen 3)
     - **Gen 4 devices are recommended for the intended experience**
+
+***
+
+Source: [TheZeference](https://www.thezeference.com/archived/astro-eq)
